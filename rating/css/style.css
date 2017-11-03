@@ -1,0 +1,15 @@
+@charset "UTF-8";
+.rating-wrap{
+	height: 16px;
+	width: 102px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(50%, 50%);
+}
+.rating{
+	display: inline-block;
+	width: 17px;
+	height: 16px;
+	background-image: url('../img/star-none.png');
+}
